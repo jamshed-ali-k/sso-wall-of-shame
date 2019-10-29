@@ -333,6 +333,15 @@
   updated_at: 2018-10-17
   footnotes: "[^victorops]: You can add SSO to a plan for $5 per u/m"
 
+- name: Vimeo
+  url: https://www.vimeo.com
+  base_pricing: $9 per m
+  sso_pricing: Call us!
+  percent_increase:  ???
+  pricing_source: https://vimeo.com/upgrade
+  updated_at: 2019-10-29
+  footnotes: "[^vimeo]: SSO is only available in the Enterprise plan"
+
 - name: Zapier
   url: https://zapier.com/
   base_pricing: $299 per u/m
